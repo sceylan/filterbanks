@@ -1,7 +1,5 @@
 # filterbanks
 
-# filterbanks
-
 `filterbanks` is a lightweight toolkit for seismic waveform analysis using **filter banks**. 
 It splits a waveform into multiple frequency bands for the purpose of analyzing energy content per band.
 The package supports NumPy arrays and ObsPy objects.
